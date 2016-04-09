@@ -8,3 +8,4 @@ Usando Lua como linguagem.
                 a mensagem muda de posicionamento aleatoriamente.
 * 3 - Button Fun 2: exemplo onde temos 2 botões um verde e um vermelho que ao clicar sobre os mesmos mostra um texto com a 
                   respectiva cor, além de um contador para exibir a quantidade clicado em cada botão.
+* 4 - Alpha: exemplo que mostra como esconder objetos na tela.
