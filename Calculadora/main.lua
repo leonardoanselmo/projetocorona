@@ -1,40 +1,40 @@
-local btn_num7 = display.newImage("num7.png")
+local btn_num7 = display.newImage("images/num7.png")
 btn_num7.x = 300
 btn_num7.y = 200
 
-local btn_num8 = display.newImage("num8.png")
+local btn_num8 = display.newImage("images/num8.png")
 btn_num8.x = 360
 btn_num8.y = 200
 
-local btn_num9 = display.newImage("num9.png")
+local btn_num9 = display.newImage("images/num9.png")
 btn_num9.x = 415
 btn_num9.y = 200
 
-local btn_num4 = display.newImage("num4.png")
+local btn_num4 = display.newImage("images/num4.png")
 btn_num4.x = 300
 btn_num4.y = 260
 
-local btn_num5 = display.newImage("num5.png")
+local btn_num5 = display.newImage("images/num5.png")
 btn_num5.x = 360
 btn_num5.y = 260
 
-local btn_num6 = display.newImage("num6.png")
+local btn_num6 = display.newImage("images/num6.png")
 btn_num6.x = 415
 btn_num6.y = 260
 
-local btn_num1 = display.newImage("num1.png")
+local btn_num1 = display.newImage("images/num1.png")
 btn_num1.x = 300
 btn_num1.y = 315
 
-local btn_num2 = display.newImage("num2.png")
+local btn_num2 = display.newImage("images/num2.png")
 btn_num2.x = 360
 btn_num2.y = 315
 
-local btn_num3 = display.newImage("num3.png")
+local btn_num3 = display.newImage("images/num3.png")
 btn_num3.x = 415
 btn_num3.y = 315
 
-local btn_num0 = display.newImage("num0.png")
+local btn_num0 = display.newImage("images/num0.png")
 btn_num0.x = 300
 btn_num0.y = 370
 
